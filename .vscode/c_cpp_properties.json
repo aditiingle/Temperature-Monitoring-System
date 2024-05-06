@@ -1,0 +1,26 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/opt/ros/humble/include/**",
+        "/home/aditiingle/Desktop/introTask_ws/src/my_cpp_pkg/include/**",
+        "/home/aditiingle/SC-Robotics-Intro-Task/intro_ws/src/intro_cpp_pkg/include/**",
+        "/home/aditiingle/intro_ws/src/intro_cpp_pkg/include/**",
+        "/home/aditiingle/src/examples/rclcpp/composition/minimal_composition/include/**",
+        "/home/aditiingle/src/examples/rclcpp/executors/cbg_executor/include/**",
+        "/home/aditiingle/src/examples/rclcpp/wait_set/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}

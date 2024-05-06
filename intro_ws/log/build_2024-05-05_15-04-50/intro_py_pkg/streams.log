@@ -1,0 +1,32 @@
+[0.554s] Invoking command in '/home/aditiingle/intro_ws/build/intro_py_pkg': PYTHONPATH=/home/aditiingle/intro_ws/build/intro_py_pkg/prefix_override:/home/aditiingle/intro_ws/install/intro_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/aditiingle/intro_ws/build/intro_py_pkg/build
+[0.777s] running develop
+[0.919s] Removing /home/aditiingle/intro_ws/install/intro_py_pkg/lib/python3.10/site-packages/intro-py-pkg.egg-link (link to .)
+[0.943s] Invoked command in '/home/aditiingle/intro_ws/build/intro_py_pkg' returned '0': PYTHONPATH=/home/aditiingle/intro_ws/build/intro_py_pkg/prefix_override:/home/aditiingle/intro_ws/install/intro_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --uninstall --editable --build-directory /home/aditiingle/intro_ws/build/intro_py_pkg/build
+[0.945s] Invoking command in '/home/aditiingle/intro_ws/src/intro_py_pkg': PYTHONPATH=/home/aditiingle/intro_ws/build/intro_py_pkg/prefix_override:/home/aditiingle/intro_ws/install/intro_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/intro_py_pkg build --build-base /home/aditiingle/intro_ws/build/intro_py_pkg/build install --record /home/aditiingle/intro_ws/build/intro_py_pkg/install.log --single-version-externally-managed install_data --force
+[1.151s] running egg_info
+[1.152s] writing ../../build/intro_py_pkg/intro_py_pkg.egg-info/PKG-INFO
+[1.152s] writing dependency_links to ../../build/intro_py_pkg/intro_py_pkg.egg-info/dependency_links.txt
+[1.153s] writing entry points to ../../build/intro_py_pkg/intro_py_pkg.egg-info/entry_points.txt
+[1.153s] writing requirements to ../../build/intro_py_pkg/intro_py_pkg.egg-info/requires.txt
+[1.153s] writing top-level names to ../../build/intro_py_pkg/intro_py_pkg.egg-info/top_level.txt
+[1.154s] reading manifest file '../../build/intro_py_pkg/intro_py_pkg.egg-info/SOURCES.txt'
+[1.162s] writing manifest file '../../build/intro_py_pkg/intro_py_pkg.egg-info/SOURCES.txt'
+[1.162s] running build
+[1.163s] running build_py
+[1.163s] copying intro_py_pkg/py_node.py -> /home/aditiingle/intro_ws/build/intro_py_pkg/build/lib/intro_py_pkg
+[1.164s] running install
+[1.164s] running install_lib
+[1.166s] creating /home/aditiingle/intro_ws/install/intro_py_pkg/lib/python3.10/site-packages/intro_py_pkg
+[1.166s] copying /home/aditiingle/intro_ws/build/intro_py_pkg/build/lib/intro_py_pkg/py_node.py -> /home/aditiingle/intro_ws/install/intro_py_pkg/lib/python3.10/site-packages/intro_py_pkg
+[1.167s] copying /home/aditiingle/intro_ws/build/intro_py_pkg/build/lib/intro_py_pkg/__init__.py -> /home/aditiingle/intro_ws/install/intro_py_pkg/lib/python3.10/site-packages/intro_py_pkg
+[1.167s] byte-compiling /home/aditiingle/intro_ws/install/intro_py_pkg/lib/python3.10/site-packages/intro_py_pkg/py_node.py to py_node.cpython-310.pyc
+[1.169s] byte-compiling /home/aditiingle/intro_ws/install/intro_py_pkg/lib/python3.10/site-packages/intro_py_pkg/__init__.py to __init__.cpython-310.pyc
+[1.169s] running install_data
+[1.169s] copying resource/intro_py_pkg -> /home/aditiingle/intro_ws/install/intro_py_pkg/share/ament_index/resource_index/packages
+[1.170s] copying package.xml -> /home/aditiingle/intro_ws/install/intro_py_pkg/share/intro_py_pkg
+[1.170s] running install_egg_info
+[1.172s] Copying ../../build/intro_py_pkg/intro_py_pkg.egg-info to /home/aditiingle/intro_ws/install/intro_py_pkg/lib/python3.10/site-packages/intro_py_pkg-0.0.0-py3.10.egg-info
+[1.174s] running install_scripts
+[1.195s] Installing py_node script to /home/aditiingle/intro_ws/install/intro_py_pkg/lib/intro_py_pkg
+[1.195s] writing list of installed files to '/home/aditiingle/intro_ws/build/intro_py_pkg/install.log'
+[1.214s] Invoked command in '/home/aditiingle/intro_ws/src/intro_py_pkg' returned '0': PYTHONPATH=/home/aditiingle/intro_ws/build/intro_py_pkg/prefix_override:/home/aditiingle/intro_ws/install/intro_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/intro_py_pkg build --build-base /home/aditiingle/intro_ws/build/intro_py_pkg/build install --record /home/aditiingle/intro_ws/build/intro_py_pkg/install.log --single-version-externally-managed install_data --force

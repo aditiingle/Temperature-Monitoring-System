@@ -1,0 +1,26 @@
+[0.009s] Invoking command in '/home/aditiingle/intro_ws/build/intro_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditiingle/intro_ws/install/intro_py_pkg:/home/aditiingle/Desktop/introTask_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/aditiingle/intro_ws/build/intro_cpp_pkg -- -j8 -l8
+[0.037s] [35m[1mConsolidate compiler generated dependencies of target cpp_node[0m
+[0.049s] [ 50%] [32mBuilding CXX object CMakeFiles/cpp_node.dir/src/cpp_node.cpp.o[0m
+[3.562s] [100%] [32m[1mLinking CXX executable cpp_node[0m
+[3.711s] [100%] Built target cpp_node
+[3.721s] Invoked command in '/home/aditiingle/intro_ws/build/intro_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditiingle/intro_ws/install/intro_py_pkg:/home/aditiingle/Desktop/introTask_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/aditiingle/intro_ws/build/intro_cpp_pkg -- -j8 -l8
+[3.748s] Invoking command in '/home/aditiingle/intro_ws/build/intro_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditiingle/intro_ws/install/intro_py_pkg:/home/aditiingle/Desktop/introTask_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/aditiingle/intro_ws/build/intro_cpp_pkg
+[3.754s] -- Install configuration: ""
+[3.755s] -- Installing: /home/aditiingle/intro_ws/install/intro_cpp_pkg/lib/intro_cpp_pkg/cpp_node
+[3.756s] -- Set runtime path of "/home/aditiingle/intro_ws/install/intro_cpp_pkg/lib/intro_cpp_pkg/cpp_node" to ""
+[3.756s] -- Up-to-date: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/intro_cpp_pkg
+[3.756s] -- Up-to-date: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/intro_cpp_pkg
+[3.756s] -- Up-to-date: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/intro_cpp_pkg/environment/ament_prefix_path.sh
+[3.756s] -- Up-to-date: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/intro_cpp_pkg/environment/ament_prefix_path.dsv
+[3.756s] -- Up-to-date: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/intro_cpp_pkg/environment/path.sh
+[3.756s] -- Up-to-date: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/intro_cpp_pkg/environment/path.dsv
+[3.756s] -- Up-to-date: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/intro_cpp_pkg/local_setup.bash
+[3.756s] -- Up-to-date: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/intro_cpp_pkg/local_setup.sh
+[3.756s] -- Up-to-date: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/intro_cpp_pkg/local_setup.zsh
+[3.756s] -- Up-to-date: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/intro_cpp_pkg/local_setup.dsv
+[3.756s] -- Installing: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/intro_cpp_pkg/package.dsv
+[3.756s] -- Up-to-date: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/ament_index/resource_index/packages/intro_cpp_pkg
+[3.756s] -- Up-to-date: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/intro_cpp_pkg/cmake/intro_cpp_pkgConfig.cmake
+[3.757s] -- Up-to-date: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/intro_cpp_pkg/cmake/intro_cpp_pkgConfig-version.cmake
+[3.757s] -- Up-to-date: /home/aditiingle/intro_ws/install/intro_cpp_pkg/share/intro_cpp_pkg/package.xml
+[3.757s] Invoked command in '/home/aditiingle/intro_ws/build/intro_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditiingle/intro_ws/install/intro_py_pkg:/home/aditiingle/Desktop/introTask_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/aditiingle/intro_ws/build/intro_cpp_pkg

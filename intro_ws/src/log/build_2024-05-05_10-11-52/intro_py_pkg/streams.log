@@ -1,0 +1,36 @@
+[0.690s] Invoking command in '/home/aditiingle/intro_ws/src/intro_py_pkg': PYTHONPATH=/home/aditiingle/intro_ws/src/build/intro_py_pkg/prefix_override:/home/aditiingle/intro_ws/src/install/intro_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/intro_py_pkg build --build-base /home/aditiingle/intro_ws/src/build/intro_py_pkg/build install --record /home/aditiingle/intro_ws/src/build/intro_py_pkg/install.log --single-version-externally-managed
+[0.903s] running egg_info
+[0.903s] creating ../build/intro_py_pkg/intro_py_pkg.egg-info
+[0.904s] writing ../build/intro_py_pkg/intro_py_pkg.egg-info/PKG-INFO
+[0.904s] writing dependency_links to ../build/intro_py_pkg/intro_py_pkg.egg-info/dependency_links.txt
+[0.904s] writing entry points to ../build/intro_py_pkg/intro_py_pkg.egg-info/entry_points.txt
+[0.904s] writing requirements to ../build/intro_py_pkg/intro_py_pkg.egg-info/requires.txt
+[0.904s] writing top-level names to ../build/intro_py_pkg/intro_py_pkg.egg-info/top_level.txt
+[0.904s] writing manifest file '../build/intro_py_pkg/intro_py_pkg.egg-info/SOURCES.txt'
+[0.906s] reading manifest file '../build/intro_py_pkg/intro_py_pkg.egg-info/SOURCES.txt'
+[0.906s] writing manifest file '../build/intro_py_pkg/intro_py_pkg.egg-info/SOURCES.txt'
+[0.906s] running build
+[0.907s] running build_py
+[0.907s] creating /home/aditiingle/intro_ws/src/build/intro_py_pkg/build
+[0.907s] creating /home/aditiingle/intro_ws/src/build/intro_py_pkg/build/lib
+[0.907s] creating /home/aditiingle/intro_ws/src/build/intro_py_pkg/build/lib/intro_py_pkg
+[0.907s] copying intro_py_pkg/py_node.py -> /home/aditiingle/intro_ws/src/build/intro_py_pkg/build/lib/intro_py_pkg
+[0.907s] copying intro_py_pkg/__init__.py -> /home/aditiingle/intro_ws/src/build/intro_py_pkg/build/lib/intro_py_pkg
+[0.907s] running install
+[0.907s] running install_lib
+[0.908s] creating /home/aditiingle/intro_ws/src/install/intro_py_pkg/lib/python3.10/site-packages/intro_py_pkg
+[0.908s] copying /home/aditiingle/intro_ws/src/build/intro_py_pkg/build/lib/intro_py_pkg/py_node.py -> /home/aditiingle/intro_ws/src/install/intro_py_pkg/lib/python3.10/site-packages/intro_py_pkg
+[0.908s] copying /home/aditiingle/intro_ws/src/build/intro_py_pkg/build/lib/intro_py_pkg/__init__.py -> /home/aditiingle/intro_ws/src/install/intro_py_pkg/lib/python3.10/site-packages/intro_py_pkg
+[0.909s] byte-compiling /home/aditiingle/intro_ws/src/install/intro_py_pkg/lib/python3.10/site-packages/intro_py_pkg/py_node.py to py_node.cpython-310.pyc
+[0.909s] byte-compiling /home/aditiingle/intro_ws/src/install/intro_py_pkg/lib/python3.10/site-packages/intro_py_pkg/__init__.py to __init__.cpython-310.pyc
+[0.909s] running install_data
+[0.910s] creating /home/aditiingle/intro_ws/src/install/intro_py_pkg/share/ament_index
+[0.910s] creating /home/aditiingle/intro_ws/src/install/intro_py_pkg/share/ament_index/resource_index
+[0.910s] creating /home/aditiingle/intro_ws/src/install/intro_py_pkg/share/ament_index/resource_index/packages
+[0.910s] copying resource/intro_py_pkg -> /home/aditiingle/intro_ws/src/install/intro_py_pkg/share/ament_index/resource_index/packages
+[0.910s] copying package.xml -> /home/aditiingle/intro_ws/src/install/intro_py_pkg/share/intro_py_pkg
+[0.910s] running install_egg_info
+[0.911s] Copying ../build/intro_py_pkg/intro_py_pkg.egg-info to /home/aditiingle/intro_ws/src/install/intro_py_pkg/lib/python3.10/site-packages/intro_py_pkg-0.0.0-py3.10.egg-info
+[0.912s] running install_scripts
+[0.928s] writing list of installed files to '/home/aditiingle/intro_ws/src/build/intro_py_pkg/install.log'
+[0.955s] Invoked command in '/home/aditiingle/intro_ws/src/intro_py_pkg' returned '0': PYTHONPATH=/home/aditiingle/intro_ws/src/build/intro_py_pkg/prefix_override:/home/aditiingle/intro_ws/src/install/intro_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/intro_py_pkg build --build-base /home/aditiingle/intro_ws/src/build/intro_py_pkg/build install --record /home/aditiingle/intro_ws/src/build/intro_py_pkg/install.log --single-version-externally-managed

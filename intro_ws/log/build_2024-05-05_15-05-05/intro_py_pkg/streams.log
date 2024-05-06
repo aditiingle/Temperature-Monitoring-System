@@ -1,0 +1,19 @@
+[0.508s] Invoking command in '/home/aditiingle/intro_ws/build/intro_py_pkg': PYTHONPATH=/home/aditiingle/intro_ws/build/intro_py_pkg/prefix_override:/home/aditiingle/intro_ws/install/intro_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/aditiingle/intro_ws/build/intro_py_pkg/build --no-deps symlink_data --force
+[0.742s] running develop
+[0.874s] running egg_info
+[0.874s] writing intro_py_pkg.egg-info/PKG-INFO
+[0.874s] writing dependency_links to intro_py_pkg.egg-info/dependency_links.txt
+[0.875s] writing entry points to intro_py_pkg.egg-info/entry_points.txt
+[0.875s] writing requirements to intro_py_pkg.egg-info/requires.txt
+[0.875s] writing top-level names to intro_py_pkg.egg-info/top_level.txt
+[0.876s] reading manifest file 'intro_py_pkg.egg-info/SOURCES.txt'
+[0.877s] writing manifest file 'intro_py_pkg.egg-info/SOURCES.txt'
+[0.878s] running build_ext
+[0.878s] Creating /home/aditiingle/intro_ws/install/intro_py_pkg/lib/python3.10/site-packages/intro-py-pkg.egg-link (link to .)
+[0.879s] Installing py_node script to /home/aditiingle/intro_ws/install/intro_py_pkg/lib/intro_py_pkg
+[0.879s] 
+[0.879s] Installed /home/aditiingle/intro_ws/build/intro_py_pkg
+[0.879s] running symlink_data
+[0.879s] symbolically linking /home/aditiingle/intro_ws/build/intro_py_pkg/resource/intro_py_pkg -> /home/aditiingle/intro_ws/install/intro_py_pkg/share/ament_index/resource_index/packages
+[0.879s] symbolically linking /home/aditiingle/intro_ws/build/intro_py_pkg/package.xml -> /home/aditiingle/intro_ws/install/intro_py_pkg/share/intro_py_pkg
+[0.902s] Invoked command in '/home/aditiingle/intro_ws/build/intro_py_pkg' returned '0': PYTHONPATH=/home/aditiingle/intro_ws/build/intro_py_pkg/prefix_override:/home/aditiingle/intro_ws/install/intro_py_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/aditiingle/intro_ws/build/intro_py_pkg/build --no-deps symlink_data --force

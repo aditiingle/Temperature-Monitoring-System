@@ -1,0 +1,58 @@
+[0.143s] Invoking command in '/home/aditiingle/intro_ws/src/build/intro_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditiingle/intro_ws/install/intro_py_pkg:/home/aditiingle/Desktop/introTask_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/aditiingle/intro_ws/src/intro_cpp_pkg -DCMAKE_INSTALL_PREFIX=/home/aditiingle/intro_ws/src/install/intro_cpp_pkg
+[0.183s] -- The C compiler identification is GNU 11.4.0
+[0.226s] -- The CXX compiler identification is GNU 11.4.0
+[0.232s] -- Detecting C compiler ABI info
+[0.283s] -- Detecting C compiler ABI info - done
+[0.290s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.290s] -- Detecting C compile features
+[0.290s] -- Detecting C compile features - done
+[0.293s] -- Detecting CXX compiler ABI info
+[0.355s] -- Detecting CXX compiler ABI info - done
+[0.362s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.362s] -- Detecting CXX compile features
+[0.363s] -- Detecting CXX compile features - done
+[0.364s] -- Found ament_cmake: 1.3.8 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.486s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.569s] -- Found rclcpp: 16.0.8 (/opt/ros/humble/share/rclcpp/cmake)
+[0.605s] -- Found rosidl_generator_c: 3.1.5 (/opt/ros/humble/share/rosidl_generator_c/cmake)
+[0.609s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.616s] -- Found rosidl_generator_cpp: 3.1.5 (/opt/ros/humble/share/rosidl_generator_cpp/cmake)
+[0.628s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.644s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.704s] -- Found rmw_implementation_cmake: 6.1.1 (/opt/ros/humble/share/rmw_implementation_cmake/cmake)
+[0.706s] -- Found rmw_fastrtps_cpp: 6.2.6 (/opt/ros/humble/share/rmw_fastrtps_cpp/cmake)
+[0.780s] -- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "3.0.2")  
+[0.800s] -- Found FastRTPS: /opt/ros/humble/include  
+[0.836s] -- Using RMW implementation 'rmw_fastrtps_cpp' as default
+[0.844s] -- Looking for pthread.h
+[0.896s] -- Looking for pthread.h - found
+[0.897s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD
+[0.955s] -- Performing Test CMAKE_HAVE_LIBC_PTHREAD - Success
+[0.956s] -- Found Threads: TRUE  
+[1.103s] -- Found ament_lint_auto: 0.12.10 (/opt/ros/humble/share/ament_lint_auto/cmake)
+[1.167s] -- Added test 'lint_cmake' to check CMake code style
+[1.168s] -- Added test 'xmllint' to check XML markup files
+[1.169s] -- Configuring done
+[1.172s] -- Generating done
+[1.173s] -- Build files have been written to: /home/aditiingle/intro_ws/src/build/intro_cpp_pkg
+[1.181s] Invoked command in '/home/aditiingle/intro_ws/src/build/intro_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditiingle/intro_ws/install/intro_py_pkg:/home/aditiingle/Desktop/introTask_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake /home/aditiingle/intro_ws/src/intro_cpp_pkg -DCMAKE_INSTALL_PREFIX=/home/aditiingle/intro_ws/src/install/intro_cpp_pkg
+[1.181s] Invoking command in '/home/aditiingle/intro_ws/src/build/intro_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditiingle/intro_ws/install/intro_py_pkg:/home/aditiingle/Desktop/introTask_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/aditiingle/intro_ws/src/build/intro_cpp_pkg -- -j8 -l8
+[1.209s] Invoked command in '/home/aditiingle/intro_ws/src/build/intro_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditiingle/intro_ws/install/intro_py_pkg:/home/aditiingle/Desktop/introTask_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --build /home/aditiingle/intro_ws/src/build/intro_cpp_pkg -- -j8 -l8
+[1.231s] Invoking command in '/home/aditiingle/intro_ws/src/build/intro_cpp_pkg': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditiingle/intro_ws/install/intro_py_pkg:/home/aditiingle/Desktop/introTask_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/aditiingle/intro_ws/src/build/intro_cpp_pkg
+[1.237s] -- Install configuration: ""
+[1.237s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/ament_index/resource_index/package_run_dependencies/intro_cpp_pkg
+[1.237s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/ament_index/resource_index/parent_prefix_path/intro_cpp_pkg
+[1.237s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/intro_cpp_pkg/environment/ament_prefix_path.sh
+[1.237s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/intro_cpp_pkg/environment/ament_prefix_path.dsv
+[1.238s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/intro_cpp_pkg/environment/path.sh
+[1.238s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/intro_cpp_pkg/environment/path.dsv
+[1.238s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/intro_cpp_pkg/local_setup.bash
+[1.238s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/intro_cpp_pkg/local_setup.sh
+[1.238s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/intro_cpp_pkg/local_setup.zsh
+[1.238s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/intro_cpp_pkg/local_setup.dsv
+[1.238s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/intro_cpp_pkg/package.dsv
+[1.238s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/ament_index/resource_index/packages/intro_cpp_pkg
+[1.238s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/intro_cpp_pkg/cmake/intro_cpp_pkgConfig.cmake
+[1.238s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/intro_cpp_pkg/cmake/intro_cpp_pkgConfig-version.cmake
+[1.238s] -- Installing: /home/aditiingle/intro_ws/src/install/intro_cpp_pkg/share/intro_cpp_pkg/package.xml
+[1.240s] Invoked command in '/home/aditiingle/intro_ws/src/build/intro_cpp_pkg' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/aditiingle/intro_ws/install/intro_py_pkg:/home/aditiingle/Desktop/introTask_ws/install/my_robot_controller:/opt/ros/humble /usr/bin/cmake --install /home/aditiingle/intro_ws/src/build/intro_cpp_pkg

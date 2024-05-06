@@ -1,0 +1,3 @@
+[console_scripts]
+py_node = intro_py_pkg.py_node:main
+
