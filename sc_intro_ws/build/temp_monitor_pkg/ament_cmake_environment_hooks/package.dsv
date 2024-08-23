@@ -1,0 +1,4 @@
+source;share/temp_monitor_pkg/local_setup.bash
+source;share/temp_monitor_pkg/local_setup.dsv
+source;share/temp_monitor_pkg/local_setup.sh
+source;share/temp_monitor_pkg/local_setup.zsh

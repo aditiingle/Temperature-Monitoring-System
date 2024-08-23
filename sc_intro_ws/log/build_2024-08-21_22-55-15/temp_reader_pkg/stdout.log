@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing temp_reader_pkg.egg-info/PKG-INFO
+writing dependency_links to temp_reader_pkg.egg-info/dependency_links.txt
+writing entry points to temp_reader_pkg.egg-info/entry_points.txt
+writing requirements to temp_reader_pkg.egg-info/requires.txt
+writing top-level names to temp_reader_pkg.egg-info/top_level.txt
+reading manifest file 'temp_reader_pkg.egg-info/SOURCES.txt'
+writing manifest file 'temp_reader_pkg.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/lib/python3.10/site-packages/temp-reader-pkg.egg-link (link to .)
+Installing reader_node script to /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/lib/temp_reader_pkg
+
+Installed /home/aditiingle/sc_intro_ws/build/temp_reader_pkg
+running symlink_data
+symbolically linking /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/resource/temp_reader_pkg -> /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/share/ament_index/resource_index/packages
+symbolically linking /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/package.xml -> /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/share/temp_reader_pkg

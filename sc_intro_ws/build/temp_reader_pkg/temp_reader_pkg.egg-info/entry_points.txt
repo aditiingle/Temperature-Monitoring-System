@@ -1,0 +1,3 @@
+[console_scripts]
+reader_node = temp_reader_pkg.reader_node:main
+

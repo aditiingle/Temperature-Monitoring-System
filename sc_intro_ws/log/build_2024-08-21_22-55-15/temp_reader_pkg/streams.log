@@ -1,0 +1,19 @@
+[0.508s] Invoking command in '/home/aditiingle/sc_intro_ws/build/temp_reader_pkg': PYTHONPATH=/home/aditiingle/sc_intro_ws/build/temp_reader_pkg/prefix_override:/home/aditiingle/sc_intro_ws/install/temp_reader_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/build --no-deps symlink_data --force
+[0.739s] running develop
+[0.871s] running egg_info
+[0.872s] writing temp_reader_pkg.egg-info/PKG-INFO
+[0.872s] writing dependency_links to temp_reader_pkg.egg-info/dependency_links.txt
+[0.872s] writing entry points to temp_reader_pkg.egg-info/entry_points.txt
+[0.872s] writing requirements to temp_reader_pkg.egg-info/requires.txt
+[0.872s] writing top-level names to temp_reader_pkg.egg-info/top_level.txt
+[0.873s] reading manifest file 'temp_reader_pkg.egg-info/SOURCES.txt'
+[0.874s] writing manifest file 'temp_reader_pkg.egg-info/SOURCES.txt'
+[0.875s] running build_ext
+[0.875s] Creating /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/lib/python3.10/site-packages/temp-reader-pkg.egg-link (link to .)
+[0.876s] Installing reader_node script to /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/lib/temp_reader_pkg
+[0.876s] 
+[0.876s] Installed /home/aditiingle/sc_intro_ws/build/temp_reader_pkg
+[0.876s] running symlink_data
+[0.876s] symbolically linking /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/resource/temp_reader_pkg -> /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/share/ament_index/resource_index/packages
+[0.876s] symbolically linking /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/package.xml -> /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/share/temp_reader_pkg
+[0.898s] Invoked command in '/home/aditiingle/sc_intro_ws/build/temp_reader_pkg' returned '0': PYTHONPATH=/home/aditiingle/sc_intro_ws/build/temp_reader_pkg/prefix_override:/home/aditiingle/sc_intro_ws/install/temp_reader_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py develop --editable --build-directory /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/build --no-deps symlink_data --force

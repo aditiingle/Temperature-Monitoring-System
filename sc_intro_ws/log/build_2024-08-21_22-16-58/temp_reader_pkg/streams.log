@@ -1,0 +1,33 @@
+[0.503s] Invoking command in '/home/aditiingle/sc_intro_ws/src/temp_reader_pkg': PYTHONPATH=/home/aditiingle/sc_intro_ws/build/temp_reader_pkg/prefix_override:/home/aditiingle/sc_intro_ws/install/temp_reader_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/temp_reader_pkg build --build-base /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/build install --record /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/install.log --single-version-externally-managed install_data
+[0.710s] running egg_info
+[0.711s] creating ../../build/temp_reader_pkg/temp_reader_pkg.egg-info
+[0.711s] writing ../../build/temp_reader_pkg/temp_reader_pkg.egg-info/PKG-INFO
+[0.711s] writing dependency_links to ../../build/temp_reader_pkg/temp_reader_pkg.egg-info/dependency_links.txt
+[0.711s] writing entry points to ../../build/temp_reader_pkg/temp_reader_pkg.egg-info/entry_points.txt
+[0.711s] writing requirements to ../../build/temp_reader_pkg/temp_reader_pkg.egg-info/requires.txt
+[0.712s] writing top-level names to ../../build/temp_reader_pkg/temp_reader_pkg.egg-info/top_level.txt
+[0.712s] writing manifest file '../../build/temp_reader_pkg/temp_reader_pkg.egg-info/SOURCES.txt'
+[0.713s] reading manifest file '../../build/temp_reader_pkg/temp_reader_pkg.egg-info/SOURCES.txt'
+[0.713s] writing manifest file '../../build/temp_reader_pkg/temp_reader_pkg.egg-info/SOURCES.txt'
+[0.714s] running build
+[0.714s] running build_py
+[0.714s] creating /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/build
+[0.714s] creating /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/build/lib
+[0.714s] creating /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/build/lib/temp_reader_pkg
+[0.714s] copying temp_reader_pkg/__init__.py -> /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/build/lib/temp_reader_pkg
+[0.714s] running install
+[0.714s] running install_lib
+[0.714s] creating /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/lib/python3.10/site-packages/temp_reader_pkg
+[0.715s] copying /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/build/lib/temp_reader_pkg/__init__.py -> /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/lib/python3.10/site-packages/temp_reader_pkg
+[0.715s] byte-compiling /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/lib/python3.10/site-packages/temp_reader_pkg/__init__.py to __init__.cpython-310.pyc
+[0.715s] running install_data
+[0.715s] creating /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/share/ament_index
+[0.715s] creating /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/share/ament_index/resource_index
+[0.715s] creating /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/share/ament_index/resource_index/packages
+[0.716s] copying resource/temp_reader_pkg -> /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/share/ament_index/resource_index/packages
+[0.716s] copying package.xml -> /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/share/temp_reader_pkg
+[0.716s] running install_egg_info
+[0.717s] Copying ../../build/temp_reader_pkg/temp_reader_pkg.egg-info to /home/aditiingle/sc_intro_ws/install/temp_reader_pkg/lib/python3.10/site-packages/temp_reader_pkg-0.0.0-py3.10.egg-info
+[0.717s] running install_scripts
+[0.734s] writing list of installed files to '/home/aditiingle/sc_intro_ws/build/temp_reader_pkg/install.log'
+[0.753s] Invoked command in '/home/aditiingle/sc_intro_ws/src/temp_reader_pkg' returned '0': PYTHONPATH=/home/aditiingle/sc_intro_ws/build/temp_reader_pkg/prefix_override:/home/aditiingle/sc_intro_ws/install/temp_reader_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated setup.py egg_info --egg-base ../../build/temp_reader_pkg build --build-base /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/build install --record /home/aditiingle/sc_intro_ws/build/temp_reader_pkg/install.log --single-version-externally-managed install_data
