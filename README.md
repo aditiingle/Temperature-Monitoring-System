@@ -9,7 +9,8 @@ The C++ node acts as the temperature monitor system. It takes the temperature me
 
 Path to the modified project: https://github.com/aditiingle/sc-robotics-intro-task/tree/modified-project/sc_intro_ws
 
-These are the steps I followed to make the publisher and subscriber nodes in Python and C++ using ros2, and then to run the nodes :
+
+## These are the steps I followed to make the publisher and subscriber nodes in Python and C++ using ros2, and then to run the nodes :
 
 Step 1 : Make a ROS2 Workspace for the project
   - Make the workspace folder in the home directory, intro_ws.
