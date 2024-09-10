@@ -1,4 +1,4 @@
-# SC-Robotics-Intro-Task
+# Intro Task for SC Robotics
 The intro task I did for the SC Robotics Team.
 
 The recently modified project mimics a real-time Temperature Monitoring System.
