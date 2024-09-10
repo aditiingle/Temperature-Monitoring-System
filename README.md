@@ -1,6 +1,7 @@
 # Intro Task for SC Robotics
 The intro task I did for the SC Robotics Team.
 
+## Project Modification:
 The recently modified project mimics a real-time Temperature Monitoring System.
 The names of the folders, nodes, topics, and classes were changed to reflect the actions they were carrying out.
 The python node (temp_reader_node) now acts as a temperature reader. It generates random temperature values between 15.0 and 40.0 degrees Celsius.
