@@ -1,6 +1,13 @@
 # SC-Robotics-Intro-Task
 The intro task I did for the SC Robotics Team.
 
+The recently modified project mimics a real-time Temperature Monitoring System.
+The names of the folders, nodes, topics, and classes were changed to reflect the actions they were carrying out.
+The python node (temp_reader_node) now acts as a temperature reader. It generates random temperature values between 15.0 and 40.0 degrees Celsius.
+The C++ node acts as the temperature monitor system. It takes the temperature measured by the python node over the temperature_topic topic and evaluates it. If the temperature reading exceeds 30 degrees Celsius then the Cpp node (temp_monitor_node) sends an alert to the python node over the alert_topic topic.
+
+Path to the modified project: https://github.com/aditiingle/sc-robotics-intro-task/tree/modified-project/sc_intro_ws
+
 These are the steps I followed to make the publisher and subscriber nodes in Python and C++ using ros2, and then to run the nodes :
 
 Step 1 : Make a ROS2 Workspace for the project
