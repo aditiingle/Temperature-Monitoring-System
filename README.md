@@ -1,5 +1,5 @@
 # Intro Task for SC Robotics
-The intro task I did for the Space Concordia Robotics Team.
+
 
 ## Project Modification:
 The recently modified project mimics a real-time Temperature Monitoring System.
